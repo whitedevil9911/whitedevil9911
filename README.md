@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **himanshu160204@gmail.com**
 
-  https://github-profile-trophy.vercel.app/?whitedevil9911=ryo-ma&theme=darkhub
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whitedevil9911" alt="whitedevil9911" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
