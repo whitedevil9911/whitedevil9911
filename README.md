@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whitedevil9911&label=Profile%20views&color=0e75b6&style=flat" alt="whitedevil9911" /> </p>
 
+
 - 🔭 I’m currently working on **Software development**
 
 - 🌱 I’m currently learning **Kali tool , Web development**
@@ -10,6 +11,8 @@
 - 💬 Ask me about **CSS, HTML , Java**
 
 - 📫 How to reach me **himanshu160204@gmail.com**
+
+  https://github-profile-trophy.vercel.app/?whitedevil9911=ryo-ma&theme=darkhub
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
