@@ -1,5 +1,5 @@
 
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGVOAhGo-A&#x2F;isDkeDIdBCBsZKxOkNBCUQ&#x2F;watch?utm_content=DAGVOAhGo-A&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black and Blue Neon Technology Video</a> by Mr Hacker
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&width=650&lines=Hii+there!+I+am+Himanshu+%2C+an+aspiring+software+developer.)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from India</h3>
 
