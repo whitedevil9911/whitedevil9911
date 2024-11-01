@@ -1,4 +1,3 @@
-[![Watch the Video](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/path/to/thumbnail.png)](https://www.canva.com/design/DAGVONS6qa4/nrnS6Tnm-P70UhD8I_HJ-g/watch)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&width=650&lines=Hi+there!+I+am+Himanshu,+an+aspiring+software+developer.)](https://git.io/typing-svg)
 
